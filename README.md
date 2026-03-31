@@ -24,4 +24,4 @@ This project implements a PX4 module that allows a drone to return home by follo
 
 ## Credits
 Based on an open-source project.
-Modified and implemented by me.
+Modified and implemented by me and my team
