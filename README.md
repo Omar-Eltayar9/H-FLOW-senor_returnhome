@@ -3,7 +3,7 @@ https://uludogantech.com/en/nano-class-unmanned-helicopter/
 # PX4 H-FLOW Return-to-Home System
 
 ## Description
-This project implements a PX4 module that allows a drone to return home by following the recorded flight path instead of a straight line.
+This project implements a PX4 module that allows a drone to return home when drone be in close area and lose gps.
 
 ## Features
 - Path-based return-to-home
