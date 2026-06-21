@@ -55,11 +55,4 @@ Configure the following parameters in QGroundControl to replicate the environmen
 
 ---
 
-## 📁 Repository Structure
 
-* `/src/modules/flow_return/` — Main C++ source code, `CMakeLists.txt`, and `Kconfig` for the PX4 module.
-* `/docs/` — Presentation slides and technical design documents.
-
-## ⚖️ License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
